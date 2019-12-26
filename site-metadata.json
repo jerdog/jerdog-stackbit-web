@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "Jeremy Meiss || DevRel / Community Professional",
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
+        "title": "Jeremy Meiss",
+        "tagline": "DevRel / Community Professional",
         "profile_img": "images/avatar.png",
         "bg": "dark",
         "has_nav": true,
