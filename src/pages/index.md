@@ -10,7 +10,7 @@ sections:
       in technology, with a vast proportion of that in software engineering.
 
 
-      > Developers don’t care that you know, until they know that you care.
+      *Developers don’t care that you know, until they know that you care.*
     section_id: hero
     type: heroblock
   - actions:
@@ -24,8 +24,8 @@ sections:
       to enable the technically savvy to be your greatest champions
 
 
-      > To give real service you must add something which cannot be bought or
-      measured with money, and that is sincerity and integrity. -*Douglas Adams*
+      *To give real service you must add something which cannot be bought or
+      measured with money, and that is sincerity and integrity. -Douglas Adams*
     section_id: about
     title: About
     type: contentblock
