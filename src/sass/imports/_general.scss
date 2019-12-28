@@ -148,8 +148,9 @@ blockquote {
     font-size: 1em;
     font-style: normal;
     font-weight: normal;
-    line-height: 1.66667;
+    //* line-height: 1.66667; */
     margin-top: 1em;
+    line-height: .25em;
 
     &:last-child {
       margin-bottom: 0;
