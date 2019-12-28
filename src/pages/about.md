@@ -9,12 +9,13 @@ menus:
 template: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Jeremy Meiss** is a Developer Relations and Community professional based in the Midwest.  He is currently the Director of DevRel at Solace, previously at Auth0, XDA, and numerous consulting gigs. He has spent the last 25+ years in technology, with a vast proportion of that in software engineering. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+> Developers don’t care that you know, until they know that you care.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+He is passionate about community and development, and the processes involved with each, and takes great happiness in evolving the understanding between companies and their technical audience. One could say he is driven to enable the technically savvy to be your greatest champions.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+> To give real service you must add something which cannot be bought or measured with money, and that is sincerity and integrity. 
+<cite>_Douglas Adams_</cite>
 
-*Thank You for reading!*
+_Thank You for reading!_
