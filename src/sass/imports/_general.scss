@@ -119,7 +119,8 @@ pre {
 
 blockquote {
   border-bottom: 1px solid _palette(secondary);
-  border-top: 3px solid _palette(secondary);
+  border-top: 3px solid #10bcf9;
+  //* border-top: 3px solid _palette(secondary); */
   //* font-size: 2rem; */
   font-size: 1.33333rem;
   font-style: italic;
