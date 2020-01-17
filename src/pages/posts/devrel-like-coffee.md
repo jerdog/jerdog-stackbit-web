@@ -1,5 +1,5 @@
 ---
-title: The 13-Year Romance is Over - Are There Greener Pastures?
+title: DevRel is like coffee.. and other profundities.
 date: '2019-01-03'
 thumb_img_path: images/devrel-like-coffee-final.png
 content_img_path: images/devrel-like-coffee-final.png
