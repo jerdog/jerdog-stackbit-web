@@ -25,12 +25,6 @@
       "url": "https://github.com/jerdog"
     },
     {
-      "type": "gitlab",
-      "title": "Gitlab",
-      "icon": "fa-gitlab",
-      "url": "https://gitlab.com/jerdog"
-    },
-    {
       "type": "devto",
       "title": "DEV",
       "icon": "fa-dev",
