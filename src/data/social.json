@@ -7,16 +7,28 @@
       "url": "https://twitter.com/IAmJerdog"
     },
     {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/jeremymeiss"
+    },
+    {
+      "type": "keybase",
+      "title": "Keybase",
+      "icon": "fa-keybase",
+      "url": "https://keybase.io/jerdog"
+    },
+    {
       "type": "github",
       "title": "GitHub",
       "icon": "fa-github",
       "url": "https://github.com/jerdog"
     },
     {
-      "type": "linkedin",
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/jeremymeiss"
+      "type": "gitlab",
+      "title": "Gitlab",
+      "icon": "fa-gitlab",
+      "url": "https://gitlab.com/jerdog"
     },
     {
       "type": "devto",
