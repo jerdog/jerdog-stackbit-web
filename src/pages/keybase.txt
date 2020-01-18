@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/jerdog
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jmeiss.me
+  * I am jerdog (https://keybase.io/jerdog) on keybase.
+  * I have a public key with fingerprint 17A6 238D 4001 2462 275A  1BBD AC51 D19E FC46 D62D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015a3ceb8a364c55e1fb1eb2de7f6c5bf0b112cb2ce59071a67c34214d3c8176cc0a",
+      "fingerprint": "17a6238d40012462275a1bbdac51d19efc46d62d",
+      "host": "keybase.io",
+      "key_id": "ac51d19efc46d62d",
+      "kid": "01015a3ceb8a364c55e1fb1eb2de7f6c5bf0b112cb2ce59071a67c34214d3c8176cc0a",
+      "uid": "2145ef89b0f5e53c961814547b673300",
+      "username": "jerdog"
+    },
+    "merkle_root": {
+      "ctime": 1579359834,
+      "hash_meta": "193229897c68af1a11890e7b83aa533db9d290af856dbbd67b0e38d4b82d4937",
+      "seqno": 14275699
+    },
+    "revoke": {
+      "sig_ids": [
+        "ac4a1eeeb0104ff75da82cb442cd73ecbd06ca64cb92461ec7ed13ff9c153e3d0f"
+      ]
+    },
+    "service": {
+      "hostname": "jmeiss.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1579359836,
+  "expire_in": 157680000,
+  "prev": "414e35682ed89eafff450e77366d6858d06ababe53ce5726939b18b0c7eea28e",
+  "seqno": 171,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMK4AnicrZNdbBRVFMd3oRRoqBLUBE0tyWh8IGs7d+7cr20V+qJRgwYVqFBY78eZ
+dtzuzjozrVRcDCat8CBShMQXoolNtEQaxaA88GAKMVgj8Svix4MPJVk1mJgojUoQ
+72zUGOOj8zIzJ+f8z//8zr1n2hfn2vJiR19P54PPXJv/YDYZye24pXNgl6MiM+YU
+dzllaL5g2ECSlsqhcYqOi1xEJNaguMTU14QAChQC5RlgAdVEBa5CyNPK00CEy5Ck
+TGPfQ77BmiNGtXalU3CCsDoIcS0Oq6mVRUxSD3Pjuy7yfOp5jEiklJGaIIMEBNqn
+hnrGFg5FSVZhzSmZQFcY2Zj9KTXt/Uf+/+x7pClnwwQCLpQbECBYC4q4DflMUYax
+62aJCcRVWQGb/RjEJhp06gWnAnF5GEpxFKUZWp2GWQIiTGAiOPbteDIZKlUglRkV
+gT1PcME05TJAEiEuXGCKYykJxkYJ4wlXBpxQY2FRplzIICruGV9gZl0k8Hg1sh18
+S5QKYS3EMBqVIeuehIOWWuIUt1luvkQAoCwnPwgYMZJbFr7vacMwaGVcqqXlpoRd
+DwLNwCAcBEIjggEbN3C217Nu8Wiom+LZmv4avwJhknTZ74JTi6M00tGwDQ+laS0p
+ZlTSsVqW9wSo0p8KJRVWjT0htmIU4iSMqnYGm/lvYLTgwM5aGEMprDbDlLv2yfrA
+qJX0kQ+YUO6B4QJkEAQ+sQQZpvZ4cMLtWFJJla0QCPOowEIhrlw7H0iPwz8IMmSN
+ykErarlVZToSg1OffXegJZdvy7UuWZTdnVzb8pV/36hzS69ufPLZ2ob3b+qapMvm
+Gj2nD3zyy+bJu3+fGus5evDwmhOvv9dnhure9MJVVJ881/rxfQvXf/XNc23HVn83
+zn5ID136/HJ/1Nc4NbP7zJX2EzONl/ccP/t2kr/cUC/oeP+q3uPtG94sP/VovQIX
+Diq99ZEb69cs6W994M7507fPTM+/9tamQsf4kbX65nemDqzb+eENc/Wzy7d+ebHl
+0+fXl1a8cWz4o3V3XZm4/7OnDwcTr77S2H5ydm1txfdb8l+82NJt1h+dv9hxx+rf
+9h5Z6FzcfV3v7Et7ptJG8cdVuy9037uv456NPzn7Tj607BKbbrl1v9qy+df63jWH
+5h4eGchv6//5tolF55ee//bUeO/XfwD68Hv2
+=k6np
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jerdog
+
+==================================================================
