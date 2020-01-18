@@ -1,9 +1,6 @@
 module.exports = {
     pathPrefix: '/',
-    siteMetadata: {
-        siteURL: `https://jmeiss.me`,
-        require('./site-metadata.json')
-    },
+    siteMetadata: require('./site-metadata.json'),
     plugins: [
         `gatsby-plugin-react-helmet`,
         `gatsby-plugin-csp`,
