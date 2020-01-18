@@ -1,9 +1,14 @@
 module.exports = {
     pathPrefix: '/',
-    siteMetadata: require('./site-metadata.json'),
+    siteMetadata: {
+        siteURL: `https://jmeiss.me`,
+        require('./site-metadata.json')
+    },
     plugins: [
         `gatsby-plugin-react-helmet`,
+        `gatsby-plugin-csp`,
         `gatsby-source-data`,
+        `gatsby-plugin-sitemap`,
         {
             resolve: `gatsby-plugin-google-analytics`,
             options: {
