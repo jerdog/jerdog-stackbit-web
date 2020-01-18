@@ -5,7 +5,6 @@ module.exports = {
         `gatsby-plugin-react-helmet`,
         `gatsby-plugin-csp`,
         `gatsby-source-data`,
-        `gatsby-plugin-sitemap`,
         {
             resolve: `gatsby-plugin-google-analytics`,
             options: {
