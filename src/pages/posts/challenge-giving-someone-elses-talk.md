@@ -20,7 +20,7 @@ SCENE!
 
 While it's not likely to happen very often, there may come a time in your #DevRel life that you are tasked with giving a talk that someone else prepared. And by prepared, I mean they've been the driving force at the company for a new initiative with the background to match, and are responsible for crafting the messaging, diagrams, and partnerships for said initiative. No big deal, right?
 
-![James Van Der Beek knows](https://media1.giphy.com/media/11daZqJWhUZucE/giphy.gif)
+![James Van Der Beek knows](/images/james-vanderbeek-knows.gif)
 
 This of course recently happened to me, hence why I'm writing this. A bit of background is probably appropriate. I'm the Director of Community and DevRel at [Solace](https://solace.com). I'm not new to preparing and giving talks on a variety of subjects, and have done so many times over the years. Even with that I still get the jitters and have to change my underwear multiple times in the days leading up to a talk. _(Not because I've soiled them, mind you. I was told early on that if I wanted to be an adult I should change my underwear daily. And I [almost] always do what my mother tells me.)_
 
