@@ -70,7 +70,7 @@ As you build up to the time to give this talk, you're going to get nervous becau
 But the message here is that you can do this. You've been practicing, and you're going to do great. 
 
 ![Keanu riffing](/images/keanu-riffing.gif)
-bana
+
 ## In conclusion.
 Preparing a talk to give anywhere is a daunting experience, but giving someone else's talk takes that to a whole new level. Following these steps will not magically make it a great talk, but they will help you prepare - and maybe, just maybe, the talk will become one that you begin to give because it's become your own. This helps not only you, but also helps your company with more people spreading the message.
 
