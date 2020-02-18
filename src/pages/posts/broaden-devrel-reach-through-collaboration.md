@@ -21,9 +21,7 @@ With all of the hard work that building communities is, why would you ever make 
 
 Building developer communities requires you to function much like the very developers you're building your community for.  Developers exist in interconnected communities due to the particular software or technology they might develop with/for, their hobbies, etc. These might be everything from TypeScript to Open Source to Salesforce Trailblazers. Because of that, it makes sense to grow a community, especially when starting from scratch, by collaborating with others.
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">When building a dev <a href="https://twitter.com/hashtag/community?src=hash&amp;ref_src=twsrc%5Etfw">#community</a> &amp; you have partners in peripheral communities, it should be part of your plan to to collaborate, as both can benefit and it builds awareness. Going it alone instead of tapping other communities is irresponsible for you as a <a href="https://twitter.com/hashtag/CMgr?src=hash&amp;ref_src=twsrc%5Etfw">#CMgr</a> in <a href="https://twitter.com/hashtag/DevRel?src=hash&amp;ref_src=twsrc%5Etfw">#DevRel</a>. [1/4]</p>&mdash; Jeremy&#39;s at Home. For now. (@IAmJerdog) <a href="https://twitter.com/IAmJerdog/status/1221805374728278016?ref_src=twsrc%5Etfw">January 27, 2020</a>
-</blockquote>
+https://twitter.com/iamjerdog/status/1221805374728278016
 
 This collaboration starts by first taking stock of the developers in your community and the tech they're using, along with the core tech your company might be using to deliver your product or service, etc. Take the following as an example.
 
