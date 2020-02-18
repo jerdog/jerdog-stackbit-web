@@ -2,7 +2,7 @@ module.exports = {
     pathPrefix: '/',
     siteMetadata: require('./site-metadata.json'),
     plugins: [
-        `gatsby-plugin-twitter`,
+        // `gatsby-plugin-twitter`,
         `gatsby-plugin-react-helmet`,
         `gatsby-plugin-csp`,
         `gatsby-source-data`,
@@ -32,7 +32,7 @@ module.exports = {
             options: {
                 plugins: [
                     `gatsby-remark-component`,
-                    `gatsby-remark-embedder`,
+                    //`gatsby-remark-embedder`,
                     `@weknow/gatsby-remark-twitter`
                 ]
             }
