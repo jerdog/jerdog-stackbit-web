@@ -16,17 +16,19 @@ Seriously though, building developer communities is hard work. It's long hours o
 And I love it. All of it. Well, maybe not _all_ of it. But it's what I love doing for my job. 
 
 With all of the hard work that building communities is, why would you ever make it that much harder on yourself by building your community in a bubble? Why position yourself on an island, staring at Wilson?
-![wilson](https://media.giphy.com/media/na5eo4HbIVO7K/giphy.gif)<figcaption><a href="https://giphy.com/gifs/lana-parrilla-na5eo4HbIVO7K">via GIPHY</a></figcaption>
+![wilson](/images/wilson.gif)<figcaption><a href="https://giphy.com/gifs/lana-parrilla-na5eo4HbIVO7K">via GIPHY</a></figcaption>
 
 Building developer communities requires you to function much like the very developers you're building your community for.  Developers exist in interconnected communities due to the particular software or technology they might develop with/for, their hobbies, etc. These might be everything from TypeScript to Open Source to Salesforce Trailblazers. Because of that, it makes sense to grow a community, especially when starting from scratch, by collaborating with others.
 
-{% twitter 1221805374728278016 %}
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">When building a dev <a href="https://twitter.com/hashtag/community?src=hash&amp;ref_src=twsrc%5Etfw">#community</a> &amp; you have partners in peripheral communities, it should be part of your plan to to collaborate, as both can benefit and it builds awareness. Going it alone instead of tapping other communities is irresponsible for you as a <a href="https://twitter.com/hashtag/CMgr?src=hash&amp;ref_src=twsrc%5Etfw">#CMgr</a> in <a href="https://twitter.com/hashtag/DevRel?src=hash&amp;ref_src=twsrc%5Etfw">#DevRel</a>. [1/4]</p>&mdash; Jeremy&#39;s at Home. For now. (@IAmJerdog) <a href="https://twitter.com/IAmJerdog/status/1221805374728278016?ref_src=twsrc%5Etfw">January 27, 2020</a>
+</blockquote>
 
 This collaboration starts by first taking stock of the developers in your community and the tech they're using, along with the core tech your company might be using to deliver your product or service, etc. Take the following as an example.
 
 You have a product which developers use to make their job easier. Let's say that the developers using your product have to install it somewhere, whether it's in the cloud, on-premise, etc. One such product happens to have a very active community of open source contributors who the company behind the product gets together yearly for a community conference. At this conference are developers who work at the same companies that you are targeting for adoption of your product. This is a prime opportunity to make the worlds collide, for lack of a better term. 
 
-![collaborate](https://media.giphy.com/media/3peISTXJFTBZK/giphy.gif)<figcaption><a href="https://giphy.com/gifs/lana-parrilla-3peISTXJFTBZK">via GIPHY</a></figcaption>
+![collaborate](/images/collab.gif)<figcaption><a href="https://giphy.com/gifs/lana-parrilla-3peISTXJFTBZK">via GIPHY</a></figcaption>
 
 
 There are a number of ways that you can get involved in these other communities:
