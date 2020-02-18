@@ -32,7 +32,8 @@ module.exports = {
             options: {
                 plugins: [
                     `gatsby-remark-component`,
-                    `gatsby-remark-embedder`
+                    `gatsby-remark-embedder`,
+                    `@weknow/gatsby-remark-twitter`
                 ]
             }
         },
