@@ -6,10 +6,7 @@ sections:
         url: /contact
     component: HeroBlock
     content: >-
-      I am a Developer Relations and Community professional based in the
-      Midwest. Currently the Director of DevRel at Solace, I was previously at
-      Auth0, XDA, and numerous consulting gigs. I have spent the last 25+ years
-      in technology, with a vast proportion of that in software engineering.
+      I am a Developer Relations and Community professional based in the Midwest. Currently the Head of DevRel & Community at [CircleCI](https://circleci.com), I was previously at [Solace](https://solace.com), [Auth0](https://auth0.com), [XDA](https://xda-developers.com), and numerous consulting gigs. I have spent the last 25+ years in technology, with a vast proportion of that in software engineering.
 
 
       *Developers don’t care that you know, until they know that you care.*

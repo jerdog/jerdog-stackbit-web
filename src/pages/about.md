@@ -9,7 +9,7 @@ menus:
 template: page
 ---
 
-**Jeremy Meiss** is a Developer Relations and Community professional based in the Midwest.  He is currently the Director of DevRel at Solace, previously at Auth0, XDA, and numerous consulting gigs. He has spent the last 25+ years in technology, with a vast proportion of that in software engineering. 
+**Jeremy Meiss** is a Developer Relations and Community professional based in the Midwest. He is currently the Head of DevRel & Community at [CircleCI](https://circleci.com), and was previously at [Solace](https://solace.com), [Auth0](https://auth0.com), [XDA](https://xda-developers.com). He has spent the last 25+ years in technology, with a vast proportion of that in software engineering. 
 
 > Developers don’t care that you know, until they know that you care.
 
