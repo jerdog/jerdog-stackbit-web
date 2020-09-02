@@ -29,6 +29,12 @@
       "title": "DEV",
       "icon": "fa-dev",
       "url": "https://dev.to/jerdog"
+    },
+    {
+      "type": "speaking",
+      "title": "Speaking",
+      "icon": "fa-chalkboard-teacher",
+      "url": "https://speaking.jmeiss.me"
     }
   ]
 }
