@@ -1,1 +1,9 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "speaking",
+      "title": "Speaking",
+      "url": "https://speaking.jmeiss.me"
+    }
+  ]
+}
