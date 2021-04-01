@@ -23,6 +23,7 @@
     "gatsby-remark-embedder": "^1.16.0",
     "gatsby-source-filesystem": "^2.3.27",
     "gatsby-transformer-remark": "2.3.8",
+    "is-svg": ">=4.2.2",
     "js-yaml": "^3.14.0",
     "lodash": "^4.17.20",
     "marked": "^0.8.2",
@@ -37,6 +38,7 @@
     "react-html-parser": "^2.0.2",
     "react-script-tag": "^1.1.2",
     "rehype-react": "^3.0.2",
-    "sprintf-js": "^1.1.2"
+    "sprintf-js": "^1.1.2",
+    "ssri": ">=8.0.1"
   }
 }
