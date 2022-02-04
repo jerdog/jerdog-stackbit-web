@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0fd4a866-685b-4633-9de0-808ba06bfcbc/deploy-status)](https://app.netlify.com/sites/jerdog-stackbit-web-44a43/deploys)
 [![CircleCI](https://circleci.com/gh/jerdog/jerdog-stackbit-web.svg?style=svg)](https://circleci.com/gh/jerdog/jerdog-stackbit-web)  
 
-[![InsightsSnapshot](https://circleci.com/gh/jerdog/jerdog-stackbit-web/accelerate.svg)]
+[![InsightsSnapshot](https://circleci.com/gh/jerdog/jerdog-stackbit-web/accelerate.svg)](https://app.circleci.com/insights/github/jerdog/jerdog-stackbit-web?reporting-window=last-30-days)
 
 # Stackbit Fresh Theme
 
